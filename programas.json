@@ -1,0 +1,2994 @@
+[
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 19,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Antropología",
+      "Código SNIES": 13,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Biología",
+      "Código SNIES": 31,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 3140,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Contaduría Publica",
+      "Código SNIES": 16895,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Derecho",
+      "Código SNIES": 17,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 18,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Enfermería",
+      "Código SNIES": 7,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 32,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Farmacia",
+      "Código SNIES": 37,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Física",
+      "Código SNIES": 33,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Fisioterapia",
+      "Código SNIES": 8,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Geografía",
+      "Código SNIES": 3103,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Geología",
+      "Código SNIES": 34,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 21,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 24,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 1,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 25,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas y Computación",
+      "Código SNIES": 106661,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 27,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 16941,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 16940,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 28,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecatrónica",
+      "Código SNIES": 16939,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 29,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Lingüística",
+      "Código SNIES": 16938,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 35,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Nutrición y Dietética",
+      "Código SNIES": 10,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Odontología",
+      "Código SNIES": 11,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Psicología",
+      "Código SNIES": 14,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Química",
+      "Código SNIES": 36,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Sociología",
+      "Código SNIES": 16,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Trabajo Social",
+      "Código SNIES": 15,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 3,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas (Diurno)",
+      "Código SNIES": 4120,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Administración de Sistemas Informáticos",
+      "Código SNIES": 16912,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Gestión Cultural y Comunicativa",
+      "Código SNIES": 16914,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 4121,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 4122,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 4123,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16915,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 4124,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 4125,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 16916,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Arquitectura",
+      "Código SNIES": 127,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 16924,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Construcción",
+      "Código SNIES": 128,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 114,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 16920,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 115,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Administrativa",
+      "Código SNIES": 125,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 116,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 113,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 55189,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Biológica",
+      "Código SNIES": 16921,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 117,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Control",
+      "Código SNIES": 16922,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Minas y Metalurgia",
+      "Código SNIES": 118,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Petróleos",
+      "Código SNIES": 119,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas e Informática",
+      "Código SNIES": 16925,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 120,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16923,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Forestal",
+      "Código SNIES": 124,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Geológica",
+      "Código SNIES": 126,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 121,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 122,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 123,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 129,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 16926,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 16902,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 144,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agroindustrial",
+      "Código SNIES": 16904,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 3104,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 16905,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2020,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 143,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 19,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Antropología",
+      "Código SNIES": 13,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Biología",
+      "Código SNIES": 31,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 3140,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Contaduría Publica",
+      "Código SNIES": 16895,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Derecho",
+      "Código SNIES": 17,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 18,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Enfermería",
+      "Código SNIES": 7,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 32,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Farmacia",
+      "Código SNIES": 37,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Física",
+      "Código SNIES": 33,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Fisioterapia",
+      "Código SNIES": 8,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Geografía",
+      "Código SNIES": 3103,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Geología",
+      "Código SNIES": 34,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 21,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 24,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 1,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 25,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas y Computación",
+      "Código SNIES": 106661,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 27,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 16941,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 16940,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 28,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecatrónica",
+      "Código SNIES": 16939,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 29,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Lingüística",
+      "Código SNIES": 16938,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 35,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Nutrición y Dietética",
+      "Código SNIES": 10,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Odontología",
+      "Código SNIES": 11,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Psicología",
+      "Código SNIES": 14,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Química",
+      "Código SNIES": 36,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Sociología",
+      "Código SNIES": 16,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Trabajo Social",
+      "Código SNIES": 15,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 3,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas (Diurno)",
+      "Código SNIES": 4120,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Administración de Sistemas Informáticos",
+      "Código SNIES": 16912,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Gestión Cultural y Comunicativa",
+      "Código SNIES": 16914,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 4121,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 4122,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 4123,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16915,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 4124,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 4125,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 16916,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Arquitectura",
+      "Código SNIES": 127,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 16924,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Construcción",
+      "Código SNIES": 128,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 114,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 16920,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 115,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Administrativa",
+      "Código SNIES": 125,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 116,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 113,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 55189,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Biológica",
+      "Código SNIES": 16921,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 117,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Control",
+      "Código SNIES": 16922,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Minas y Metalurgia",
+      "Código SNIES": 118,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Petróleos",
+      "Código SNIES": 119,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas e Informática",
+      "Código SNIES": 16925,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 120,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16923,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Forestal",
+      "Código SNIES": 124,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Geológica",
+      "Código SNIES": 126,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 121,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 122,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 123,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 129,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 16926,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 16902,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 144,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agroindustrial",
+      "Código SNIES": 16904,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 3104,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 16905,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 143,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 19,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Antropología",
+      "Código SNIES": 13,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Biología",
+      "Código SNIES": 31,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 3140,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Contaduría Publica",
+      "Código SNIES": 16895,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Derecho",
+      "Código SNIES": 17,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Economía",
+      "Código SNIES": 18,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Enfermería",
+      "Código SNIES": 7,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Estadística",
+      "Código SNIES": 32,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Farmacia",
+      "Código SNIES": 37,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Física",
+      "Código SNIES": 33,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Fisioterapia",
+      "Código SNIES": 8,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Geografía",
+      "Código SNIES": 3103,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Geología",
+      "Código SNIES": 34,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Historia",
+      "Código SNIES": 21,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 24,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 1,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 25,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Sistemas y Computación",
+      "Código SNIES": 106661,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 27,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 16941,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 16940,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 28,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecatrónica",
+      "Código SNIES": 16939,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 29,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Lingüística",
+      "Código SNIES": 16938,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 35,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Nutrición y Dietética",
+      "Código SNIES": 10,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Odontología",
+      "Código SNIES": 11,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Psicología",
+      "Código SNIES": 14,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Química",
+      "Código SNIES": 36,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Sociología",
+      "Código SNIES": 16,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Trabajo Social",
+      "Código SNIES": 15,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 3,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas (Diurno)",
+      "Código SNIES": 4120,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Administración de Sistemas Informáticos",
+      "Código SNIES": 16912,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Gestión Cultural y Comunicativa",
+      "Código SNIES": 16914,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 4121,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 4122,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 4123,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16915,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 4124,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 4125,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 16916,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Arquitectura",
+      "Código SNIES": 127,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 16924,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Construcción",
+      "Código SNIES": 128,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Economía",
+      "Código SNIES": 114,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Estadística",
+      "Código SNIES": 16920,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Historia",
+      "Código SNIES": 115,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Administrativa",
+      "Código SNIES": 125,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 116,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 113,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 55189,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Biológica",
+      "Código SNIES": 16921,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 117,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Control",
+      "Código SNIES": 16922,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Minas y Metalurgia",
+      "Código SNIES": 118,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Petróleos",
+      "Código SNIES": 119,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Sistemas e Informática",
+      "Código SNIES": 16925,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 120,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16923,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Forestal",
+      "Código SNIES": 124,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Geológica",
+      "Código SNIES": 126,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 121,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 122,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 123,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 129,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 16926,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 16902,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 144,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agroindustrial",
+      "Código SNIES": 16904,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 3104,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 16905,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2019,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 143,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 19,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Antropología",
+      "Código SNIES": 13,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Biología",
+      "Código SNIES": 31,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 3140,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Contaduría Publica",
+      "Código SNIES": 16895,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Derecho",
+      "Código SNIES": 17,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 18,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Enfermería",
+      "Código SNIES": 7,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 32,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Farmacia",
+      "Código SNIES": 37,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Física",
+      "Código SNIES": 33,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Fonoaudiología",
+      "Código SNIES": 3102,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Geografía",
+      "Código SNIES": 3103,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Geología",
+      "Código SNIES": 34,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 21,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 24,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 1,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 25,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas y Computación",
+      "Código SNIES": 106661,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 27,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 16941,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 16940,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 28,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecatrónica",
+      "Código SNIES": 16939,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 29,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Lingüística",
+      "Código SNIES": 16938,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 35,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Nutrición y Dietética",
+      "Código SNIES": 10,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Odontología",
+      "Código SNIES": 11,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Psicología",
+      "Código SNIES": 14,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Química",
+      "Código SNIES": 36,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Sociología",
+      "Código SNIES": 16,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Terapia Ocupacional",
+      "Código SNIES": 12,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Trabajo Social",
+      "Código SNIES": 15,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 3,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 16924,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Economía",
+      "Código SNIES": 114,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Estadística",
+      "Código SNIES": 16920,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Historia",
+      "Código SNIES": 115,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Administrativa",
+      "Código SNIES": 125,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 116,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 113,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 55189,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Biológica",
+      "Código SNIES": 16921,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 117,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Control",
+      "Código SNIES": 16922,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Minas y Metalurgia",
+      "Código SNIES": 118,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Petróleos",
+      "Código SNIES": 119,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería de Sistemas e Informática",
+      "Código SNIES": 16925,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 120,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16923,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Forestal",
+      "Código SNIES": 124,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Geológica",
+      "Código SNIES": 126,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 121,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 122,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 123,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 129,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 16926,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 4120,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Administración de Sistemas Informáticos",
+      "Código SNIES": 16912,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Gestión Cultural y Comunicativa",
+      "Código SNIES": 16914,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 4121,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 4122,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 4123,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16915,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 4124,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 4125,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Matemáticas",
+      "Código SNIES": 16916,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 16902,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 144,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agroindustrial",
+      "Código SNIES": 16904,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 3104,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 16905,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 1,
+      "Programa": "Zootecnia",
+      "Código SNIES": 143,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 19,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Antropología",
+      "Código SNIES": 13,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Biología",
+      "Código SNIES": 31,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 3140,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Contaduría Publica",
+      "Código SNIES": 16895,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Derecho",
+      "Código SNIES": 17,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Economía",
+      "Código SNIES": 18,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Enfermería",
+      "Código SNIES": 7,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Estadística",
+      "Código SNIES": 32,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Farmacia",
+      "Código SNIES": 37,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Física",
+      "Código SNIES": 33,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Fisioterapia",
+      "Código SNIES": 8,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Geografía",
+      "Código SNIES": 3103,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Geología",
+      "Código SNIES": 34,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Historia",
+      "Código SNIES": 21,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 24,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 1,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 25,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Sistemas y Computación",
+      "Código SNIES": 106661,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 27,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 16941,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 16940,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 28,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecatrónica",
+      "Código SNIES": 16939,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 29,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Lingüística",
+      "Código SNIES": 16938,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 35,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Nutrición y Dietética",
+      "Código SNIES": 10,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Odontología",
+      "Código SNIES": 11,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Psicología",
+      "Código SNIES": 14,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Química",
+      "Código SNIES": 36,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Sociología",
+      "Código SNIES": 16,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Trabajo Social",
+      "Código SNIES": 15,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 3,
+      "Sede Andina": "Bogotá",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas (Diurno)",
+      "Código SNIES": 4120,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Administración de Sistemas Informáticos",
+      "Código SNIES": 16912,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Gestión Cultural y Comunicativa",
+      "Código SNIES": 16914,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 4121,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 4122,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Electrónica",
+      "Código SNIES": 4123,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16915,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 4124,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 4125,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 16916,
+      "Sede Andina": "Manizales",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Arquitectura",
+      "Código SNIES": 127,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ciencia Política",
+      "Código SNIES": 16924,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Construcción",
+      "Código SNIES": 128,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Economía",
+      "Código SNIES": 114,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Estadística",
+      "Código SNIES": 16920,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Historia",
+      "Código SNIES": 115,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Administrativa",
+      "Código SNIES": 125,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 116,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 113,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 55189,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Biológica",
+      "Código SNIES": 16921,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Civil",
+      "Código SNIES": 117,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Control",
+      "Código SNIES": 16922,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Minas y Metalurgia",
+      "Código SNIES": 118,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Petróleos",
+      "Código SNIES": 119,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería de Sistemas e Informática",
+      "Código SNIES": 16925,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Eléctrica",
+      "Código SNIES": 120,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Física",
+      "Código SNIES": 16923,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Forestal",
+      "Código SNIES": 124,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Geológica",
+      "Código SNIES": 126,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Industrial",
+      "Código SNIES": 121,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Mecánica",
+      "Código SNIES": 122,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Química",
+      "Código SNIES": 123,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Matemáticas",
+      "Código SNIES": 129,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 16926,
+      "Sede Andina": "Medellín",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Administración de Empresas",
+      "Código SNIES": 16902,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agrícola",
+      "Código SNIES": 144,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agroindustrial",
+      "Código SNIES": 16904,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Agronómica",
+      "Código SNIES": 3104,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Ingeniería Ambiental",
+      "Código SNIES": 16905,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    },
+    {
+      "Año": 2018,
+      "Semestre": 2,
+      "Programa": "Zootecnia",
+      "Código SNIES": 143,
+      "Sede Andina": "Palmira",
+      "Total Cupos": 3
+    }
+  ]
